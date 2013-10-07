@@ -1,0 +1,32 @@
+{
+  "name": "exif_stream",
+  "version": "0.0.1",
+  "description": "Turn photos into a data stream.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "path": "~0.4.9",
+    "walk": "~2.2.1",
+    "through": "~2.3.4",
+    "exif": "~0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmichelli/exifStream.git"
+  },
+  "keywords": [
+    "exif",
+    "gis",
+    "stream",
+    "norway",
+    "geographical"
+  ],
+  "author": "Mario Michelli",
+  "license": "BSD"
+}
